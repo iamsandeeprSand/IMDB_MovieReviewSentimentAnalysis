@@ -1,4 +1,3 @@
-```markdown
 # IMDB Movie Review Sentiment Analysis
 
 A simple web application for sentiment analysis of movie reviews from the IMDB dataset using a Recurrent Neural Network (RNN).
@@ -67,8 +66,3 @@ This project is a simple web application for sentiment analysis of movie reviews
 - TensorFlow
 - Streamlit
 - NumPy
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
