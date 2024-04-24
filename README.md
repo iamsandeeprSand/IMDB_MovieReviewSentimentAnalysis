@@ -53,7 +53,7 @@ This project is a simple web application for sentiment analysis of movie reviews
 1. After cloning the repository and installing the required dependencies, run the Streamlit app:
 
    ```bash
-   streamlit run app.py
+   streamlit run IMDB.py
    ```
 
 2. Open the URL displayed in your terminal to access the web application.
