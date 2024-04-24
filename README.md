@@ -39,7 +39,7 @@ This project is a simple web application for sentiment analysis of movie reviews
 2. Change the directory:
 
    ```bash
-   cd imdb-sentiment-analysis
+   cd IMDB_MovieReviewSentimentAnalysis
    ```
 
 3. Install the required dependencies:
