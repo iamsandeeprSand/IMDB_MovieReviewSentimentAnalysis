@@ -13,7 +13,6 @@ A simple web application for sentiment analysis of movie reviews from the IMDB d
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [License](#license)
 
 ## Demo
 
