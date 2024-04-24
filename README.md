@@ -33,7 +33,7 @@ This project is a simple web application for sentiment analysis of movie reviews
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/imdb-sentiment-analysis.git
+   git clone https://github.com/iamsandeeprSand/IMDB_MovieReviewSentimentAnalysis.git
    ```
 
 2. Change the directory:
