@@ -2,7 +2,8 @@
 
 A simple web application for sentiment analysis of movie reviews from the IMDB dataset using a Recurrent Neural Network (RNN).
 
-![Streamlit App Screenshot](screenshot.png)
+![image](https://github.com/iamsandeeprSand/IMDB_MovieReviewSentimentAnalysis/assets/139530620/87d9346f-67d8-493d-ad34-e1f0950f7625)
+
 
 ## Table of Contents
 
