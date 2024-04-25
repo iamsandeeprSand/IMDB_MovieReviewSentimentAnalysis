@@ -17,7 +17,7 @@ train_data = pad_sequences(train_data, maxlen=maxlen)
 test_data = pad_sequences(test_data, maxlen=maxlen)
 
 # Load the pre-trained RNN model
-model_rnn = load_model("imdb_rnn_model.h5")
+model_rnn = load_model("D:/New folder (2)/imdb_rnn_model.h5")
 
 # Evaluate the pre-trained model
 loss, accuracy = model_rnn.evaluate(test_data, test_labels)
